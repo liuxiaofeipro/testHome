@@ -1,5 +1,6 @@
 function getId(id){
-	document.getElementById(id);
+	return document.getElementById(id);
 }
 function getClass(){
+	
 }
